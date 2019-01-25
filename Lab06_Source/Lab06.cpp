@@ -1,3 +1,8 @@
+// Your name
+// Your UMKC Email Address
+// Today's date
+// CS201L Lab 06
+
 #include <iostream>
 #include <vector>
 #include <fstream>
